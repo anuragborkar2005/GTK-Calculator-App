@@ -1,0 +1,41 @@
+
+
+#entry {
+    margin: 5px;
+    font-size: 24px;
+    color: #333;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+
+#button_infix_to_prefix, #button_infix_to_postfix, #button_check_balance {
+    background-color: #295F98;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    font-size: 24px;
+}
+
+#button_infix_to_prefix:hover, #button_infix_to_postfix:hover, #button_check_balance:hover {
+    background-color: #7695FF;
+}
+
+
+#output_text_view {
+    font-family: "Monospace";
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    min-height: 100px;
+    color: black;
+    font-size: 24px;
+}
+
+
