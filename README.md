@@ -11,7 +11,6 @@ The GTK Calculator App is a simple yet powerful calculator application built usi
 - **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division with ease.
 - **User-Friendly Interface**: A clean and intuitive interface that resembles the classic calculator design.
 - **Cross-Platform Compatibility**: Runs smoothly on Windows, Linux, and macOS.
-- **Responsive Design**: Adapts to different screen sizes and resolutions.
 - **Theme Support**: Compatible with various GTK themes for a native look and feel on each platform.
 
 ### Installation
