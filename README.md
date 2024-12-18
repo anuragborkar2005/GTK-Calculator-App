@@ -18,7 +18,7 @@ Follow these steps to install and run the GTK Calculator App:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/gtk-calculator-app.git
+   git clone https://github.com/anuragborkar2005/gtk-calculator-app.git
    cd gtk-calculator-app
    ```
 
