@@ -47,7 +47,7 @@ Follow these steps to install and run the GTK Calculator App:
    ```
 
 ### Usage
-Open the application and use the buttons to perform arithmetic operations. The result will be displayed on the screen. You can clear the input using the "C" button and perform chained calculations.
+Open the application and use the buttons to perform arithmetic operations. The result will be displayed on the screen.
 
 ### Contributing
 We welcome contributions! To contribute to the project, follow these steps:
